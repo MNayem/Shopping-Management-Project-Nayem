@@ -1,0 +1,76 @@
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\bin\Debug\SoppingManaage.exe.config
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\MainWindow.baml
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\MainWindow.g.cs
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\App.g.cs
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage_MarkupCompile.cache
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.g.resources
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Properties.Resources.resources
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.csproj.GenerateResource.Cache
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\bin\Debug\SoppingManaage.exe
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\bin\Debug\SoppingManaage.pdb
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.exe
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.pdb
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\UserHomepage.baml
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\UserHomepage.g.cs
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\Product.baml
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\Product.g.cs
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\Account.baml
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\Account.g.cs
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\Calculator.baml
+F:\Visual Studio\Do or Die\SoppingManaage\SoppingManaage\obj\Debug\Calculator.g.cs
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\bin\Debug\SoppingManaage.exe.config
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.exe
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.pdb
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\bin\Debug\SoppingManaage.exe
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\bin\Debug\SoppingManaage.pdb
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.csprojResolveAssemblyReference.cache
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\Account.baml
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\Calculator.baml
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\MainWindow.baml
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\Product.baml
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\UserHomepage.baml
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\Account.g.cs
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\Calculator.g.cs
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\MainWindow.g.cs
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\Product.g.cs
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\UserHomepage.g.cs
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\App.g.cs
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage_MarkupCompile.cache
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.g.resources
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Properties.Resources.resources
+E:\nayem\c sharp practise\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.csproj.GenerateResource.Cache
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\bin\Debug\SoppingManaage.exe.config
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.exe
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.pdb
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\bin\Debug\SoppingManaage.exe
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\bin\Debug\SoppingManaage.pdb
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.csprojResolveAssemblyReference.cache
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\Account.baml
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\Calculator.baml
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\MainWindow.baml
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\Product.baml
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\UserHomepage.baml
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\Account.g.cs
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\Calculator.g.cs
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\MainWindow.g.cs
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\Product.g.cs
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\UserHomepage.g.cs
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\App.g.cs
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage_MarkupCompile.cache
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.g.resources
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Properties.Resources.resources
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.csproj.GenerateResource.Cache
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\AdminHomepage.baml
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\AdminHomepage.g.cs
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Available.resources
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\Product_user.baml
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\Product_user.g.cs
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Available1.resources
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Employee.resources
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Employee_Cost.resources
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Admin_Sale.resources
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.User_Sale.resources
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Total_Buy_Product.resources
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Daily_Buy.resources
+E:\nayem\c sharp practise\Project\SoppingManaage\SoppingManaage\obj\Debug\SoppingManaage.Profit_Loss.resources
